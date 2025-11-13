@@ -1,0 +1,22 @@
+# SaaS SBC Analysis Engine - Python Dependencies
+
+# Data collection
+requests==2.31.0
+sec-edgar-downloader==5.0.4
+beautifulsoup4==4.12.2
+lxml==4.9.3
+
+# Data processing
+pandas==2.1.4
+numpy==1.26.2
+python-dateutil==2.8.2
+
+# Excel export
+openpyxl==3.1.2
+XlsxWriter==3.1.9
+
+# HTTP utilities
+urllib3==2.1.0
+
+# Logging
+colorama==0.4.6
